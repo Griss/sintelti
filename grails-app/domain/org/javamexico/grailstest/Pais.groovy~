@@ -1,0 +1,7 @@
+package org.javamexico.grailstest
+
+class Pais {
+
+    static constraints = {
+    }
+}
